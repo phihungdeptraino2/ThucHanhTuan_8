@@ -15,7 +15,6 @@ function App() {
       <main className="main-content">
         <Header />
         <OverView></OverView>
-
         <DetailedReport />
       </main>
     </div>
